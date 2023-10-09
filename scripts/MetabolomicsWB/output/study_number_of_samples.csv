@@ -1,0 +1,1282 @@
+Study ID,Disease,Number of Samples
+ST001618,Addiction,0
+ST001619,Addiction,0
+ST001369,Allergy,0
+ST001655,Allergy,0
+ST001656,Allergy,0
+ST001733,Allergy,0
+ST002384,Allergy,0
+ST000462,Alzheimers disease,0
+ST000463,Alzheimers disease,0
+ST001848,Alzheimers disease,0
+ST002495,Anorexia nervosa,0
+ST000026,Antibiotic resistance,0
+ST000027,Antibiotic resistance,0
+ST000028,Antibiotic resistance,0
+ST000029,Antibiotic resistance,0
+ST000030,Antibiotic resistance,0
+ST000031,Antibiotic resistance,0
+ST000032,Antibiotic resistance,0
+ST000033,Antibiotic resistance,0
+ST000034,Antibiotic resistance,0
+ST000035,Antibiotic resistance,0
+ST000036,Antibiotic resistance,0
+ST000037,Antibiotic resistance,0
+ST000038,Antibiotic resistance,0
+ST000039,Antibiotic resistance,0
+ST000453,Antibiotic resistance,0
+ST000406,Asthma,0
+ST000604,Asthma,0
+ST001171,Asthma,0
+ST002251,Asthma,0
+ST000305,Atherosclerosis,0
+ST001434,Atherosclerosis,0
+ST002302,Atopic dermatitis,0
+ST001168,Atrial fibrillation,0
+ST001169,Atrial fibrillation,0
+ST001208,Atrial fibrillation,0
+ST000476,Autism,0
+ST002854,Bacterial infection,0
+ST000223,Barth Syndrome,0
+ST002554,Bipolar disorder,0
+ST000361,Bipolar I Disorder,0
+ST000920,Brain injury,0
+ST001017,Cachexia,0
+ST001064,Cachexia,0
+ST000104,Cancer,0
+ST000220,Cancer,0
+ST000285,Cancer,0
+ST000366,Cancer,0
+ST000391,Cancer,0
+ST000438,Cancer,0
+ST000439,Cancer,0
+ST000442,Cancer,0
+ST000454,Cancer,0
+ST000455,Cancer,0
+ST000528,Cancer,0
+ST000529,Cancer,0
+ST000615,Cancer,0
+ST000782,Cancer,0
+ST000787,Cancer,0
+ST000788,Cancer,0
+ST000789,Cancer,0
+ST000898,Cancer,0
+ST000934,Cancer,0
+ST000973,Cancer,0
+ST001018,Cancer,0
+ST001042,Cancer,0
+ST001075,Cancer,0
+ST001081,Cancer,0
+ST001082,Cancer,0
+ST001083,Cancer,0
+ST001087,Cancer,0
+ST001090,Cancer,0
+ST001093,Cancer,0
+ST001120,Cancer,0
+ST001152,Cancer,0
+ST001172,Cancer,0
+ST001181,Cancer,0
+ST001271,Cancer,0
+ST001290,Cancer,0
+ST001408,Cancer,0
+ST001423,Cancer,0
+ST001429,Cancer,0
+ST001640,Cancer,0
+ST001662,Cancer,0
+ST001682,Cancer,0
+ST001705,Cancer,0
+ST001707,Cancer,0
+ST001737,Cancer,0
+ST001838,Cancer,0
+ST001923,Cancer,0
+ST001925,Cancer,0
+ST001941,Cancer,0
+ST002015,Cancer,0
+ST002045,Cancer,0
+ST002064,Cancer,0
+ST002065,Cancer,0
+ST002067,Cancer,0
+ST002083,Cancer,0
+ST002116,Cancer,0
+ST002120,Cancer,0
+ST002193,Cancer,0
+ST002207,Cancer,0
+ST002209,Cancer,0
+ST002238,Cancer,0
+ST002241,Cancer,0
+ST002290,Cancer,0
+ST002293,Cancer,0
+ST002294,Cancer,0
+ST002295,Cancer,0
+ST002338,Cancer,0
+ST002341,Cancer,0
+ST002390,Cancer,0
+ST002446,Cancer,0
+ST002498,Cancer,0
+ST002521,Cancer,0
+ST002523,Cancer,0
+ST002577,Cancer,0
+ST002710,Cancer,0
+ST002715,Cancer,0
+ST002806,Cancer,0
+ST002839,Cancer,0
+ST002851,Cancer,0
+ST001886,Cardiomyopathy,0
+ST001887,Cardiomyopathy,0
+ST001858,Cardiotoxicity,0
+ST001930,Cardiovascular disease,0
+ST001943,Chronic kidney disease,0
+ST001641,Chronic liver disease,0
+ST002722,Chronic liver disease,0
+ST002350,Coccidioidomycosis,0
+ST000601,COPD,0
+ST001216,COPD,0
+ST001217,COPD,0
+ST001443,COPD,0
+ST001639,COPD,0
+ST002088,COPD,0
+ST002089,COPD,0
+ST001849,COVID-19,0
+ST001993,COVID-19,0
+ST002291,COVID-19,0
+ST002829,COVID-19,0
+ST002845,COVID-19,0
+ST001164,Cystic fibrosis,0
+ST001414,Cystic fibrosis,0
+ST001437,Cystic fibrosis,0
+ST001438,Cystic fibrosis,0
+ST002298,Depression,0
+ST000398,Diabetes,0
+ST000467,Diabetes,0
+ST000530,Diabetes,0
+ST000540,Diabetes,0
+ST000558,Diabetes,0
+ST000559,Diabetes,0
+ST000816,Diabetes,0
+ST001145,Diabetes,0
+ST001249,Diabetes,0
+ST001266,Diabetes,0
+ST001314,Diabetes,0
+ST001386,Diabetes,0
+ST001436,Diabetes,0
+ST001636,Diabetes,0
+ST001959,Diabetes,0
+ST002268,Diabetes,0
+ST002735,Diabetes,0
+ST000585,Endometriosis,0
+ST000909,Environmental exposure,0
+ST001220,Environmental exposure,0
+ST001221,Environmental exposure,0
+ST001310,Environmental exposure,0
+ST001362,Environmental exposure,0
+ST001407,Environmental exposure,0
+ST001716,Environmental exposure,0
+ST001871,Environmental exposure,0
+ST001872,Environmental exposure,0
+ST002456,Environmental exposure,0
+ST001020,Epilepsy,0
+ST001021,Epilepsy,0
+ST001022,Epilepsy,0
+ST000590,Eye disease,0
+ST001130,Eye disease,0
+ST001150,Eye disease,0
+ST001277,Eye disease,0
+ST001278,Eye disease,0
+ST001936,Eye disease,0
+ST002414,Eye disease,0
+ST000254,Fatty liver disease,0
+ST000993,Fatty liver disease,0
+ST000994,Fatty liver disease,0
+ST002156,Fatty liver disease,0
+ST002192,Fatty liver disease,0
+ST002514,Fatty liver disease,0
+ST002520,Fatty liver disease,0
+ST001330,Fungal infection,0
+ST001331,Fungal infection,0
+ST001370,Fungal infection,0
+ST001387,Fungal infection,0
+ST001511,Fungal infection,0
+ST002552,Galactosemia,0
+ST001054,Gastrointestinal pain,0
+ST002557,Genetic Disease,0
+ST002564,Genetic Disease,0
+ST002566,Genetic Disease,0
+ST002750,Genetic disease,0
+ST001449,Graft versus host disease,0
+ST001469,Graft versus host disease,0
+ST001471,Graft versus host disease,0
+ST001473,Graft versus host disease,0
+ST001475,Graft versus host disease,0
+ST000584,Heart disease,0
+ST002044,Heart disease,0
+ST002568,Heart disease,0
+ST000314,Heat stroke,0
+ST001268,HIV,0
+ST001750,HIV,0
+ST002133,HIV,0
+ST000357,HSV infection,0
+ST000358,HSV infection,0
+ST000359,HSV infection,0
+ST000363,HSV infection,0
+ST001186,Huntingtons disease,0
+ST001333,Huntingtons disease,0
+ST002442,Huntingtons disease,0
+ST000464,Hypertension,0
+ST001257,Hypertension,0
+ST002533,Hypertension,0
+ST001854,Infection,0
+ST002877,Infection,0
+ST002918,Infection,0
+ST000657,Inflammation,0
+ST001297,Inflammation,0
+ST002723,Inflammation,0
+ST000069,Influenza,0
+ST000070,Influenza,0
+ST000071,Influenza,0
+ST002432,Influenza,0
+ST000382,Interstitial cystitis,0
+ST001247,Irritable bowel syndrome,0
+ST001718,Irritable bowel syndrome,0
+ST000050,Kidney disease,0
+ST000560,Kidney disease,0
+ST001353,Kidney Disease,0
+ST001481,Leigh syndrome,0
+ST001484,Leigh syndrome,0
+ST001486,Leigh syndrome,0
+ST001488,Leigh syndrome,0
+ST001883,Leigh syndrome,0
+ST002347,Leishmaniasis,0
+ST000882,Leprosy,0
+ST001094,Lung disease,0
+ST000888,Lyme disease,0
+ST001391,Lyme disease,0
+ST001258,Lymphatic filariasis,0
+ST000578,Malaria,0
+ST000592,Malaria,0
+ST000599,Malaria,0
+ST001239,Malaria,0
+ST001899,Malaria,0
+ST001900,Malaria,0
+ST002181,Malaria,0
+ST001366,Malnutrition,0
+ST001367,Malnutrition,0
+ST001368,Malnutrition,0
+ST002696,Metabolic disease,0
+ST000971,Metabolic syndrome,0
+ST002733,Metabolic syndrome,0
+ST000877,Micronutrient deficiency,0
+ST000651,Muscular dystrophy,0
+ST000652,Muscular dystrophy,0
+ST000653,Muscular dystrophy,0
+ST000654,Muscular dystrophy,0
+ST000800,Myalgic encephalomyelitis/chronic fatigue syndrome,0
+ST000801,Myalgic encephalomyelitis/chronic fatigue syndrome,0
+ST000813,Myalgic encephalomyelitis/chronic fatigue syndrome,0
+ST000315,Obesity,0
+ST000485,Obesity,0
+ST000655,Obesity,0
+ST000656,Obesity,0
+ST001525,Obesity,0
+ST001635,Obesity,0
+ST001824,Obesity,0
+ST001825,Obesity,0
+ST001826,Obesity,0
+ST001911,Obesity,0
+ST002396,Obesity,0
+ST000022,Osteoarthritis,0
+ST002850,Osteoporosis,0
+ST002202,Pancreatitis,0
+ST000515,Parasitic infection,0
+ST000817,Parasitic infection,0
+ST002158,Parasitic infection,0
+ST002253,Parasitic infection,0
+ST001281,Parkinsons disease,0
+ST001810,Parkinsons disease,0
+ST001957,Parkinsons disease,0
+ST000618,Polycystic ovary syndrome,0
+ST002151,Preeclampsia,0
+ST002478,Prion disease,0
+ST001790,Radiation exposure,0
+ST001791,Radiation exposure,0
+ST001792,Radiation exposure,0
+ST001793,Radiation exposure,0
+ST001806,Radiation exposure,0
+ST001891,Radiation exposure,0
+ST001892,Radiation exposure,0
+ST002165,Radiation exposure,0
+ST002166,Radiation exposure,0
+ST002310,Salmonella,0
+ST002311,Salmonella,0
+ST002312,Salmonella,0
+ST001255,Sepsis,0
+ST001499,Sepsis,0
+ST001500,Sepsis,0
+ST001502,Sepsis,0
+ST001503,Sepsis,0
+ST001504,Sepsis,0
+ST001505,Sepsis,0
+ST000792,Spinal cord injury,0
+ST000866,Spinal cord injury,0
+ST000869,Spinal cord injury,0
+ST002198,Stress,0
+ST000234,Tuberculosis,0
+ST000262,Tuberculosis,0
+ST000263,Tuberculosis,0
+ST000264,Tuberculosis,0
+ST000265,Tuberculosis,0
+ST000266,Tuberculosis,0
+ST000267,Tuberculosis,0
+ST000268,Tuberculosis,0
+ST000786,Tuberculosis,0
+ST000931,Tuberculosis,0
+ST000932,Tuberculosis,0
+ST000935,Tuberculosis,0
+ST000936,Tuberculosis,0
+ST000937,Tuberculosis,0
+ST000940,Tuberculosis,0
+ST000941,Tuberculosis,0
+ST000942,Tuberculosis,0
+ST000943,Tuberculosis,0
+ST001231,Tuberculosis,0
+ST001328,Tuberculosis,0
+ST001649,Urinary tract infection,0
+ST001659,Valley fever,0
+ST002560,Very long acylcarnitine dehydrogenase deficiency,0
+ST002164,Viral infection,0
+ST002423,Wilson disease,0
+ST002424,Wilson disease,0
+ST002425,Wilson disease,0
+ST002203,Cancer,2
+ST001518,Cerebellar ataxia,2
+ST000221,Cancer,3
+ST000312,Cancer,3
+ST000926,Cancer,3
+ST001658,Cancer,3
+ST002072,Cancer,3
+ST000134,Cancer,4
+ST000142,Cancer,4
+ST000367,Cancer,4
+ST001023,Cancer,4
+ST002090,Irritable bowel syndrome,4
+ST001104,Tuberculosis,4
+ST000148,Cancer,5
+ST001265,Cancer,5
+ST000669,Eye disease,5
+ST001734,Allergy,6
+ST002447,Bacterial infection,6
+ST000044,Cancer,6
+ST000248,Cancer,6
+ST000927,Cancer,6
+ST001049,Cancer,6
+ST001129,Cancer,6
+ST001133,Cancer,6
+ST001139,Cancer,6
+ST001359,Cancer,6
+ST001902,Cancer,6
+ST002059,Cancer,6
+ST002395,Cancer,6
+ST002467,Cancer,6
+ST002572,Cancer,6
+ST002584,Cancer,6
+ST002719,Cancer,6
+ST002859,Cancer,6
+ST001126,Inflammatory bowel disease,6
+ST002309,Malaria,6
+ST000838,Obesity,6
+ST000466,Oxidative stress,6
+ST002805,Pulmonary hypertension,6
+ST002830,Retinopathy of prematurity,6
+ST002528,Cancer,7
+ST002094,Irritable bowel syndrome,7
+ST000113,Cancer,8
+ST000114,Cancer,8
+ST000714,Cancer,8
+ST000820,Cancer,8
+ST000928,Cancer,8
+ST001050,Cancer,8
+ST001138,Cancer,8
+ST001730,Cancer,8
+ST001731,Cancer,8
+ST001732,Cancer,8
+ST001135,Diabetes,8
+ST000150,Enterocolitis,8
+ST000639,Heart disease,8
+ST000834,Hypertension,8
+ST001125,Inflammatory bowel disease,8
+ST000231,Cancer,9
+ST000822,Cancer,9
+ST002458,Chronic kidney disease,9
+ST001642,Diabetes,9
+ST002204,Diabetes,9
+ST000779,Fatty liver disease,9
+ST002182,Fatty liver disease,9
+ST002191,Fatty liver disease,9
+ST000757,Hypertension,9
+ST001128,Irritable bowel syndrome,9
+ST002314,Metabolic syndrome,9
+ST001256,Muscular dystrophy,9
+ST000298,Psoriasis,9
+ST000133,Cancer,10
+ST000276,Cancer,10
+ST000474,Cancer,10
+ST000475,Cancer,10
+ST000740,Cancer,10
+ST000823,Cancer,10
+ST001611,Cancer,10
+ST001755,Cancer,10
+ST002084,Cancer,10
+ST002085,Cancer,10
+ST002160,Cancer,10
+ST002255,Cancer,10
+ST002573,Cancer,10
+ST001250,Colitis,10
+ST001690,Diabetes,10
+ST002145,Diabetes,10
+ST001309,Environmental exposure,10
+ST001311,Environmental exposure,10
+ST001312,Environmental exposure,10
+ST001313,Environmental exposure,10
+ST002547,Fibrosis,10
+ST002398,Myopathy,10
+ST000777,Obesity,10
+ST000836,Obesity,10
+ST001179,Sarcopenia,10
+ST001442,Eye disease,11
+ST002280,Inflammation,11
+ST001153,Kidney disease,11
+ST000309,Antibiotic resistance,12
+ST000404,Cancer,12
+ST000459,Cancer,12
+ST000461,Cancer,12
+ST000504,Cancer,12
+ST000713,Cancer,12
+ST001320,Cancer,12
+ST001451,Cancer,12
+ST001779,Cancer,12
+ST002121,Cancer,12
+ST002205,Cancer,12
+ST002218,Cancer,12
+ST002273,Cancer,12
+ST002317,Cancer,12
+ST002319,Cancer,12
+ST002323,Cancer,12
+ST002485,Cancer,12
+ST002712,Cancer,12
+ST002713,Cancer,12
+ST002856,Cancer,12
+ST002860,Cancer,12
+ST002119,Diabetes,12
+ST000498,Drug addiction,12
+ST000555,Drug addiction,12
+ST002497,Eye disease,12
+ST002775,Eye disease,12
+ST002776,Eye disease,12
+ST001185,Fatty liver disease,12
+ST001448,Hypercortisolemia,12
+ST002461,Hypoxia,12
+ST002371,Inflammation,12
+ST001855,Kidney disease,12
+ST001856,Kidney disease,12
+ST002107,Malaria,12
+ST002097,NASH,12
+ST000957,Obesity,12
+ST001951,Pulmonary hypertension,12
+ST001101,Sepsis,12
+ST001390,Sepsis,12
+ST000953,Stress,12
+ST001131,Trauma,12
+ST000905,Vitamin A deficiency,12
+ST000906,Vitamin A deficiency,12
+ST000907,Vitamin A deficiency,12
+ST000908,Vitamin A deficiency,12
+ST001624,Chronic kidney disease,13
+ST001625,Chronic kidney disease,13
+ST000546,Malaria,13
+ST002108,Malaria,13
+ST002792,Malaria,13
+ST002415,Multiple sclerosis,13
+ST000876,Neuropathy,13
+ST002093,Obesity,13
+ST000505,Cancer,14
+ST000506,Cancer,14
+ST002318,Cancer,14
+ST002863,Cancer,14
+ST001626,Chronic kidney disease,14
+ST001627,Chronic kidney disease,14
+ST001628,Chronic kidney disease,14
+ST001629,Chronic kidney disease,14
+ST001630,Chronic kidney disease,14
+ST001631,Chronic kidney disease,14
+ST000743,Diabetes,14
+ST002540,Diabetes,14
+ST000332,Giardia infection,14
+ST001650,Infection,14
+ST001127,Irritable bowel syndrome,14
+ST000878,Kidney disease,14
+ST001149,Malaria,14
+ST002011,Malaria,14
+ST001666,Obesity,14
+ST000145,Cancer,15
+ST000460,Cancer,15
+ST001191,Cancer,15
+ST002122,Cancer,15
+ST002486,Cancer,15
+ST002487,Cancer,15
+ST002489,Cancer,15
+ST000164,Diabetes,15
+ST000829,Diabetes,15
+ST001253,Diabetes,15
+ST002444,Eye disease,15
+ST001445,Graft versus host disease,15
+ST001446,Graft versus host disease,15
+ST001447,Graft versus host disease,15
+ST001453,Graft versus host disease,15
+ST001455,Graft versus host disease,15
+ST001456,Graft versus host disease,15
+ST001459,Graft versus host disease,15
+ST001460,Graft versus host disease,15
+ST001461,Graft versus host disease,15
+ST001462,Graft versus host disease,15
+ST001463,Graft versus host disease,15
+ST001465,Graft versus host disease,15
+ST001466,Graft versus host disease,15
+ST001468,Graft versus host disease,15
+ST001470,Graft versus host disease,15
+ST001472,Graft versus host disease,15
+ST001474,Graft versus host disease,15
+ST002009,Inflammation,15
+ST002197,Inflammation,15
+ST002106,Malaria,15
+ST000095,Metabolic syndrome,15
+ST001665,Obesity,15
+ST000696,Stress,15
+ST002214,Alzheimers disease,16
+ST000831,Bacterial infection,16
+ST002544,Cachexia,16
+ST002545,Cachexia,16
+ST002546,Cachexia,16
+ST000153,Cancer,16
+ST000465,Cancer,16
+ST000494,Cancer,16
+ST000507,Cancer,16
+ST001218,Cancer,16
+ST002058,Cancer,16
+ST002852,Cancer,16
+ST000347,Diabetes,16
+ST001222,Environmental exposure,16
+ST000691,Kidney disease,16
+ST001361,Kidney disease,16
+ST000881,Leprosy,16
+ST000828,Lung disease,16
+ST000310,Lupus,16
+ST000597,Metabolic syndrome,16
+ST000598,Metabolic syndrome,16
+ST000593,Obesity,16
+ST000594,Obesity,16
+ST000901,Obesity,16
+ST000664,Bipolar I Disorder,17
+ST002167,Cancer,17
+ST002585,Cancer,17
+ST001921,COVID-19,17
+ST000680,Fatty liver disease,17
+ST002179,Genetic disease,17
+ST000311,Lupus,17
+ST001652,Malaria,17
+ST000499,Neuropathy,17
+ST001246,Sudden infant death syndrome,17
+ST000741,Adrenoleukodystrophy,18
+ST001820,Alzheimers disease,18
+ST002213,Alzheimers disease,18
+ST000734,Antibiotic resistance,18
+ST000846,Asthma,18
+ST000847,Asthma,18
+ST001300,Bacterial infection,18
+ST002549,Cachexia,18
+ST000146,Cancer,18
+ST000642,Cancer,18
+ST000821,Cancer,18
+ST001363,Cancer,18
+ST001610,Cancer,18
+ST001989,Cancer,18
+ST002216,Cancer,18
+ST002524,Diabetes,18
+ST000678,Fatty liver disease,18
+ST001051,Hypertension,18
+ST001238,Malaria,18
+ST002078,Malaria,18
+ST000902,Obesity,18
+ST001738,Obesity,18
+ST001304,Parasitic infection,18
+ST001305,Salmonella,18
+ST000715,Sudden infant death syndrome,18
+ST001796,Diabetes,19
+ST000194,Fatty liver disease,19
+ST000693,Fatty liver disease,19
+ST000428,Lung injury,19
+ST000623,Muscular dystrophy,19
+ST000799,Spinal cord injury,19
+ST000574,Cancer,20
+ST000575,Cancer,20
+ST000576,Cancer,20
+ST000577,Cancer,20
+ST001267,Cancer,20
+ST002217,Cancer,20
+ST002220,Cancer,20
+ST002227,Cancer,20
+ST002505,Cancer,20
+ST002479,COVID-19,20
+ST000348,Diabetes,20
+ST000349,Diabetes,20
+ST000350,Diabetes,20
+ST000189,Enterocolitis,20
+ST001398,Environmental exposure,20
+ST000579,Eye disease,20
+ST000580,Eye disease,20
+ST000581,Eye disease,20
+ST000582,Eye disease,20
+ST000620,Eye disease,20
+ST001725,Eye disease,20
+ST001954,Friedreichs Ataxia,20
+ST002499,Inflammation,20
+ST000603,Interstitial cystitis,20
+ST000425,Lung injury,20
+ST000426,Lung injury,20
+ST000427,Lung injury,20
+ST000287,Muscular dystrophy,20
+ST000556,Obesity,20
+ST000793,Spinal cord injury,20
+ST000794,Spinal cord injury,20
+ST000795,Spinal cord injury,20
+ST000796,Spinal cord injury,20
+ST000797,Spinal cord injury,20
+ST000798,Spinal cord injury,20
+ST000854,Spinal cord injury,20
+ST000856,Spinal cord injury,20
+ST000857,Spinal cord injury,20
+ST000858,Spinal cord injury,20
+ST000859,Spinal cord injury,20
+ST000860,Spinal cord injury,20
+ST000458,Cancer,21
+ST002527,Cancer,21
+ST000677,Fatty liver disease,21
+ST001845,Fatty liver disease,21
+ST000720,Ozone Stress,21
+ST002010,Cancer,22
+ST002104,Cancer,22
+ST002530,Cancer,22
+ST002534,Cancer,22
+ST002701,Chronic stress,22
+ST000418,Cystic fibrosis,22
+ST000665,Fatty liver disease,22
+ST002277,Bacterial infection,23
+ST000824,Cancer,23
+ST002345,Depression,23
+ST000587,Heart disease,23
+ST002316,Metabolic syndrome,23
+ST002304,White-nose syndrome,23
+ST002334,Alzheimers disease,24
+ST002187,Bacterial infection,24
+ST000144,Cancer,24
+ST000230,Cancer,24
+ST000341,Cancer,24
+ST001638,Cancer,24
+ST002531,Cancer,24
+ST002543,Cancer,24
+ST002709,Cancer,24
+ST002731,Cancer,24
+ST002755,Cancer,24
+ST000711,Cystic fibrosis,24
+ST000541,Diabetes,24
+ST001136,Diabetes,24
+ST001643,Diabetes,24
+ST002565,Diabetes,24
+ST001381,Eye disease,24
+ST002551,Eye disease,24
+ST000679,Fatty liver disease,24
+ST001680,Fatty liver disease,24
+ST000588,Heart disease,24
+ST000637,Heart disease,24
+ST000638,Heart disease,24
+ST001615,Ischemia,24
+ST001616,Ischemia,24
+ST000240,Ozone Stress,24
+ST001034,Bacterial infection,25
+ST002586,Cancer,25
+ST002195,Dermatitis,25
+ST002869,Environmental exposure,25
+ST002007,Inflammation,25
+ST001617,Ischemia,25
+ST000337,Organ transplantation,25
+ST000863,Spinal cord injury,25
+ST000607,Thrombosis,25
+ST001301,Bacterial infection,26
+ST002457,Chronic kidney disease,26
+ST000091,Diabetes,26
+ST000744,Diabetes,26
+ST002872,Friedreichs Ataxia; Cardiomyopathy,26
+ST001795,Obesity,26
+ST001176,Yellow fever,26
+ST000351,Antibiotic resistance,27
+ST000727,Cancer,27
+ST001963,Cancer,27
+ST001988,Cancer,27
+ST002864,Cancer,27
+ST002865,Cancer,27
+ST002406,Clubroot disease,27
+ST000519,Diabetes,27
+ST001935,Diabetes,27
+ST000478,Radiation exposure,27
+ST000864,Spinal cord injury,27
+ST000321,Alcoholism,28
+ST001946,Bipolar disorder,28
+ST000058,Cancer,28
+ST002054,Cancer,28
+ST002526,Cancer,28
+ST000667,Diabetes,28
+ST001719,HIV,28
+ST001306,Hypospadias,28
+ST001205,Malaria,28
+ST001441,Mitochondrial disease,28
+ST000841,Obesity,28
+ST002781,Obesity,28
+ST000712,Diabetes,29
+ST000840,Diabetes,29
+ST002725,Sickle cell disease,29
+ST000852,Spinal cord injury,29
+ST000093,Alopecia,30
+ST001815,Arthritis,30
+ST000083,Bacterial infection,30
+ST001006,Cachexia,30
+ST001009,Cachexia,30
+ST001010,Cachexia,30
+ST001015,Cachexia,30
+ST000077,Cancer,30
+ST000893,Cancer,30
+ST000894,Cancer,30
+ST000896,Cancer,30
+ST001005,Cancer,30
+ST001011,Cancer,30
+ST001012,Cancer,30
+ST001013,Cancer,30
+ST001014,Cancer,30
+ST001016,Cancer,30
+ST001942,Cancer,30
+ST001983,Cancer,30
+ST002173,Cancer,30
+ST002199,Cancer,30
+ST002476,COVID-19,30
+ST001754,Diabetes,30
+ST002474,Diabetes,30
+ST002234,DNA damage response,30
+ST002451,Inflammation,30
+ST000329,Kidney disease,30
+ST000827,Lung disease,30
+ST000645,Muscular dystrophy,30
+ST000646,Muscular dystrophy,30
+ST000647,Muscular dystrophy,30
+ST000648,Muscular dystrophy,30
+ST000649,Muscular dystrophy,30
+ST000650,Muscular dystrophy,30
+ST000137,Sarcoidosis,30
+ST000848,Spinal cord injury,30
+ST000849,Spinal cord injury,30
+ST000850,Spinal cord injury,30
+ST000851,Spinal cord injury,30
+ST000853,Spinal cord injury,30
+ST000861,Spinal cord injury,30
+ST000862,Spinal cord injury,30
+ST002539,Abiotic stress,31
+ST002066,Cancer,31
+ST000115,Diabetes,31
+ST001273,Eye disease,31
+ST001284,Eye disease,31
+ST001059,Inflammation,31
+ST002698,Malaria,31
+ST002726,Sickle cell disease,31
+ST001143,Asthma,32
+ST001144,Asthma,32
+ST002248,Cancer,32
+ST000775,Depression,32
+ST001953,Diabetes,32
+ST002162,Eye disease,32
+ST002068,Heart disease,32
+ST002801,Heart disease,32
+ST002445,Inflammation,32
+ST000352,Krabbe disease,32
+ST002697,Musculoskeletal system disease,32
+ST001327,Neuropathy,32
+ST000658,Obesity,32
+ST002254,Obesity,32
+ST000815,Ozone Stress,32
+ST002335,Parkinsons disease,32
+ST002727,Sickle cell disease,32
+ST002797,Twin-twin transfusion syndrome,32
+ST000342,Acute kidney injury,33
+ST002231,Cancer,33
+ST001406,Environmental exposure,33
+ST002111,Eye disease,33
+ST001489,Fungal infection,33
+ST001869,Hypertension,33
+ST000688,Multiple sclerosis,33
+ST000903,Stress,33
+ST000673,Sudden infant death syndrome,33
+ST002265,Dental erosion,34
+ST001332,Environmental exposure,34
+ST002490,Cancer,35
+ST001295,Sepsis,35
+ST000844,Asthma,36
+ST000845,Asthma,36
+ST000728,Cancer,36
+ST001024,Cancer,36
+ST001026,Cancer,36
+ST001225,Cancer,36
+ST001226,Cancer,36
+ST001227,Cancer,36
+ST001228,Cancer,36
+ST001229,Cancer,36
+ST001230,Cancer,36
+ST001527,Cancer,36
+ST001920,Cancer,36
+ST002578,Cancer,36
+ST002330,Clubroot disease,36
+ST000514,Diabetes,36
+ST000516,Diabetes,36
+ST000517,Diabetes,36
+ST000518,Diabetes,36
+ST000631,Heart disease,36
+ST000632,Heart disease,36
+ST000633,Heart disease,36
+ST001632,Ischemia,36
+ST001033,Malaria,36
+ST001864,Malaria,36
+ST002416,Multiple sclerosis,36
+ST002098,NASH,36
+ST002099,NASH,36
+ST002101,NASH,36
+ST000488,Sleep apnea,36
+ST000489,Sleep apnea,36
+ST000490,Sleep apnea,36
+ST000491,Sleep apnea,36
+ST000492,Sleep apnea,36
+ST000493,Sleep apnea,36
+ST001276,Sleeping sickness,36
+ST001069,Tuberculosis,36
+ST001977,Cancer,37
+ST002163,Cancer,37
+ST000512,Diabetes,37
+ST000549,Diabetes,37
+ST001384,Malaria,37
+ST000742,Adrenoleukodystrophy,38
+ST001686,Environmental exposure,38
+ST001076,Leigh syndrome,38
+ST001078,Leigh syndrome,38
+ST000617,Myalgic encephalomyelitis/chronic fatigue syndrome,38
+ST000010,Cancer,39
+ST002226,Cancer,39
+ST000520,Diabetes,39
+ST000521,Diabetes,39
+ST000692,Inflammation,39
+ST001077,Leigh syndrome,39
+ST001294,Sepsis,39
+ST002569,VLCAD deficiency,39
+ST000371,Cancer,40
+ST000956,Cancer,40
+ST001339,Cancer,40
+ST001712,Cancer,40
+ST001974,Cancer,40
+ST001976,Cancer,40
+ST002110,Cancer,40
+ST000612,Eye disease,40
+ST000613,Eye disease,40
+ST000616,Eye disease,40
+ST000624,Eye disease,40
+ST000977,Fatty liver disease,40
+ST000628,Heart disease,40
+ST000629,Heart disease,40
+ST000630,Heart disease,40
+ST000897,Heart injury,40
+ST000252,Hypoglycemia,40
+ST000663,Metabolic syndrome,40
+ST000483,Obesity,40
+ST000484,Obesity,40
+ST000552,Trauma,40
+ST002109,Cancer,41
+ST001285,Eye disease,41
+ST001919,Fatty liver disease,41
+ST001964,Fatty liver disease,41
+ST002136,Cancer,42
+ST002740,Cancer,42
+ST001709,COVID-19,42
+ST002754,Fatty liver disease,42
+ST001487,Leigh syndrome,42
+ST000255,Lung disease,42
+ST001315,Malaria,42
+ST000122,Metabolic syndrome,42
+ST001975,Cancer,43
+ST001685,Environmental exposure,43
+ST002450,Inflammation,43
+ST001121,Interstitial cystitis,43
+ST001122,Interstitial cystitis,43
+ST002782,Obesity,43
+ST001819,Alzheimers disease,44
+ST000733,Antibiotic resistance,44
+ST000096,Cancer,44
+ST001364,Cardiomyopathy,44
+ST002080,Ferroptosis,44
+ST001479,Leigh syndrome,44
+ST000046,Alzheimers disease,45
+ST000047,Alzheimers disease,45
+ST002221,Cancer,45
+ST002587,Cancer,45
+ST002535,Cognitive impairment,45
+ST002561,Diabetes,45
+ST000976,Tuberculosis,45
+ST001749,Alzheimers disease,46
+ST001167,Cancer,46
+ST002815,Cardiomyopathy,46
+ST000511,Diabetes,46
+ST000513,Diabetes,46
+ST002382,Diabetes,46
+ST002525,Diabetes,46
+ST002399,Obesity,46
+ST002053,Parasitic infection,46
+ST000089,Cancer,47
+ST000963,Eye disease,47
+ST001483,Leigh syndrome,47
+ST001485,Leigh syndrome,47
+ST000316,Obesity,47
+ST000955,Cancer,48
+ST002224,Cancer,48
+ST002536,Cancer,48
+ST002555,Cancer,48
+ST002785,Ischemia,48
+ST002786,Ischemia,48
+ST000497,Mosaic virus infection,48
+ST000780,Neuropathy,48
+ST001979,Cancer,49
+ST000435,Diabetes,49
+ST001036,Inflammation,49
+ST000790,Cancer,50
+ST000791,Cancer,50
+ST000895,Cancer,50
+ST002707,Circadian Rhythm Disorder,50
+ST000051,Environmental exposure,50
+ST001105,Eye disease,50
+ST002428,Tuberculosis,50
+ST001052,Inflammation,51
+ST000762,Scleroderma,51
+ST001175,Malaria,53
+ST000981,Antibiotic resistance,54
+ST000643,Cancer,54
+ST000644,Cancer,54
+ST002383,Cancer,54
+ST000432,Diabetes,54
+ST002178,Endotoxemia,54
+ST001073,Eye disease,54
+ST001660,Malaria,54
+ST000954,Asthma,55
+ST001119,Cancer,55
+ST002529,Cancer,55
+ST002047,Eye disease,55
+ST002354,Cancer,56
+ST002817,Cardiomyopathy,56
+ST001853,COVID-19,56
+ST000383,Diabetes,56
+ST000421,Diabetes,56
+ST000191,Hypertension,56
+ST001884,Leigh syndrome,56
+ST002100,NASH,57
+ST001114,Obesity,57
+ST002256,Obesity,57
+ST002042,Stroke,57
+ST002236,Allergy,58
+ST000979,Antibiotic resistance,58
+ST000918,Cancer,58
+ST000434,Diabetes,58
+ST000443,Diabetes,58
+ST000336,Duchenne Muscular Dystrophy,58
+ST002261,Obesity,58
+ST002262,Obesity,58
+ST000065,Cancer,59
+ST000904,Cancer,59
+ST002070,Cancer,59
+ST000007,Bacterial infection,60
+ST001467,Cachexia,60
+ST002222,Cancer,60
+ST002488,Cancer,60
+ST000422,Diabetes,60
+ST000672,Diabetes,60
+ST001115,Eye disease,60
+ST001842,Fatty liver disease,60
+ST001843,Fatty liver disease,60
+ST000899,Inflammatory bowel disease,60
+ST000958,Metabolic syndrome,60
+ST000959,Metabolic syndrome,60
+ST000960,Metabolic syndrome,60
+ST000961,Metabolic syndrome,60
+ST002315,Metabolic syndrome,60
+ST000842,Obesity,60
+ST001949,Rheumatoid arthritis,60
+ST002736,Cardiovascular disease,61
+ST001905,Diabetes,61
+ST001906,Diabetes,61
+ST001844,Fatty liver disease,61
+ST000082,Cancer,62
+ST002717,Cardiomyopathy,62
+ST002475,Depression,62
+ST002857,Multiple sclerosis,62
+ST002223,Cancer,63
+ST001279,Malaria,63
+ST001648,Abiotic stress,64
+ST002716,Cardiomyopathy,64
+ST000106,Obesity,64
+ST001360,Preeclampsia,64
+ST001747,Acute kidney injury,65
+ST001984,Cancer,66
+ST002420,Cancer,66
+ST002328,HIV,66
+ST000872,Oxidative stress,66
+ST000843,Asthma,67
+ST001948,Diabetes,67
+ST000456,Drug addiction,68
+ST001940,Irritable bowel syndrome,68
+ST000338,Organ transplantation,68
+ST001274,Sleeping sickness,68
+ST000433,Alzheimers disease,69
+ST002137,Cancer,71
+ST000057,Diabetes,71
+ST001232,Malaria,71
+ST000885,Obesity,71
+ST002567,Diabetes,72
+ST001985,Malaria,72
+ST002389,Parkinsons disease,72
+ST001275,Sleeping sickness,72
+ST001477,Eye disease,73
+ST002228,Obesity,73
+ST001291,Scrapie,73
+ST000075,Diabetes,74
+ST000551,Diabetes,74
+ST000524,Heart disease,74
+ST000525,Heart disease,74
+ST000526,Heart disease,74
+ST000527,Heart disease,74
+ST002477,COVID-19,75
+ST001814,Parkinsons disease,75
+ST001307,Cancer,76
+ST001259,Wilson disease,76
+ST001292,Diabetes,77
+ST002313,Cancer,78
+ST001124,Lung disease,79
+ST000992,Metabolic syndrome,79
+ST000660,Obesity,79
+ST001978,Cancer,80
+ST002208,Cancer,80
+ST002708,Circadian Rhythm Disorder,80
+ST002563,Diabetes,80
+ST002784,Ischemia,80
+ST000087,Cancer,81
+ST000417,Environmental exposure,81
+ST001720,HIV,81
+ST000785,Sepsis,81
+ST001924,Cancer,82
+ST001933,COVID-19,82
+ST002825,Neurodegenerative disease,82
+ST001004,Asthma,84
+ST000865,Cancer,84
+ST001202,Malaria,84
+ST000450,Myalgic encephalomyelitis/chronic fatigue syndrome,84
+ST000967,Antibiotic resistance,85
+ST002438,Asthma,85
+ST000548,Cancer,85
+ST001383,Environmental exposure,86
+ST000390,Cancer,87
+ST001188,Malaria,87
+ST002235,Cancer,88
+ST002562,Diabetes,88
+ST001689,Environmental exposure,88
+ST000915,Fatty liver disease,88
+ST000916,Fatty liver disease,88
+ST000917,Fatty liver disease,88
+ST000020,Osteoarthritis,88
+ST000735,Antibiotic resistance,89
+ST000726,Polycystic ovary syndrome,89
+ST002916,-,90
+ST002702,Acute respiratory distress syndrome,90
+ST002196,Inflammation,90
+ST002550,Lung disease,90
+ST000661,Obesity,90
+ST000939,Pediatric nephrotic syndrome,90
+ST002915,-,91
+ST000910,Myalgic encephalomyelitis/chronic fatigue syndrome,91
+ST000911,Myalgic encephalomyelitis/chronic fatigue syndrome,91
+ST000912,Myalgic encephalomyelitis/chronic fatigue syndrome,91
+ST000913,Myalgic encephalomyelitis/chronic fatigue syndrome,91
+ST000784,Cancer,92
+ST000381,Interstitial cystitis,92
+ST000388,Cancer,94
+ST000389,Cancer,94
+ST000783,Cancer,94
+ST002043,Maternal Hypoxemia,94
+ST002858,Multiple sclerosis,94
+ST001269,Cancer,95
+ST000873,Oxidative stress,95
+ST001971,Cancer,96
+ST001240,Down syndrome,96
+ST001204,Malaria,96
+ST001243,Down syndrome,98
+ST001035,Inflammation,98
+ST002575,Diabetes,99
+ST001908,Heart disease,99
+ST000695,Arthralgia,100
+ST000496,Dental plaque,100
+ST001242,Down syndrome,100
+ST002117,Malnutrition,100
+ST000802,Myalgic encephalomyelitis/chronic fatigue syndrome,100
+ST000770,Obesity,100
+ST002250,Obesity,100
+ST000962,Antibiotic resistance,101
+ST002057,NASH,101
+ST001735,COVID-19,102
+ST001736,COVID-19,102
+ST002063,Hyperlipidemia,103
+ST002113,Cancer,106
+ST001517,Malaria,106
+ST001411,Obesity,106
+ST001614,Hypoglycemia,107
+ST002225,Cancer,108
+ST000107,Diabetes,108
+ST002051,Parasitic infection,108
+ST001190,Sepsis,108
+ST001118,Wilson disease,110
+ST000405,Placental Abruption,111
+ST002082,Cancer,112
+ST002452,Dementia,112
+ST002243,Friedreichs Ataxia,112
+ST002244,Friedreichs Ataxia,112
+ST000565,Kidney disease,112
+ST001025,Cancer,114
+ST001097,Schizophrenia,114
+ST001098,Schizophrenia,114
+ST001950,Traumatic brain injury,114
+ST002086,COVID-19,116
+ST000048,Diabetes,117
+ST001111,Cancer,118
+ST000614,Cancer,119
+ST000149,Diabetes,120
+ST001272,Eye disease,120
+ST000081,Cancer,124
+ST002229,Obesity,124
+ST000362,COPD,129
+ST001241,Down syndrome,129
+ST002468,Cancer,131
+ST001412,Obesity,131
+ST000356,Cancer,134
+ST000196,Antibiotic resistance,135
+ST001251,Endotoxemia,138
+ST000659,Peripheral artery disease,138
+ST001047,Cancer,140
+ST002194,COVID-19,144
+ST000566,Heart disease,144
+ST000567,Heart disease,144
+ST002783,Ischemia,144
+ST002024,Malaria,146
+ST000568,Diabetes,147
+ST002494,Anorexia nervosa,148
+ST002023,Thyroid toxicity,149
+ST001270,Necrotizing soft-tissue infections,150
+ST000721,Trauma,152
+ST000640,Diabetes,153
+ST000641,Diabetes,153
+ST002016,COVID-19,157
+ST001431,Eczema,162
+ST001432,Eczema,162
+ST002453,Inflammation,162
+ST000634,Heart disease,166
+ST000635,Heart disease,166
+ST000636,Heart disease,166
+ST001378,Tuberculosis,168
+ST002301,COVID-19,170
+ST002269,Fatty liver disease,174
+ST001201,Malaria,175
+ST001840,Oxidative stress,178
+ST001841,Oxidative stress,178
+ST000386,Cancer,180
+ST001354,Sepsis,180
+ST001193,Autism,181
+ST000369,Cancer,181
+ST001355,Environmental exposure,182
+ST000392,Cancer,183
+ST001515,Obesity,187
+ST000441,Malaria,189
+ST000368,Cancer,191
+ST000054,Cancer,192
+ST000385,Cancer,192
+ST002000,Myalgic encephalomyelitis/chronic fatigue syndrome,197
+ST002001,Myalgic encephalomyelitis/chronic fatigue syndrome,197
+ST002002,Myalgic encephalomyelitis/chronic fatigue syndrome,197
+ST002003,Myalgic encephalomyelitis/chronic fatigue syndrome,197
+ST002091,Fatty liver disease,199
+ST001400,Malaria,199
+ST001516,Malaria,199
+ST000168,Diabetes,200
+ST000718,Environmental exposure,200
+ST001039,Asthma,202
+ST000946,Environmental exposure,207
+ST002732,Systemic lupus erythematosus,207
+ST000355,Cancer,211
+ST001235,Cancer,212
+ST000703,HIV,212
+ST000763,Scleroderma,218
+ST002862,Heart disease,228
+ST001319,Sepsis,228
+ST002861,Heart disease;,230
+ST001048,Asthma,232
+ST001830,Liver failure,232
+ST001365,Cystic fibrosis,233
+ST000676,Neuropathy,235
+ST001236,Cancer,244
+ST001903,Cancer,248
+ST002155,Bacterial infection,250
+ST001325,Asthma,256
+ST001706,Cancer,258
+ST000611,Cancer,259
+ST000947,Polycystic ovary syndrome,264
+ST002296,Alkaptonuria,276
+ST002161,Diabetes,291
+ST000396,Cancer,299
+ST001992,Diabetes,304
+ST002297,Alkaptonuria,309
+ST002556,Inflammation,312
+ST001209,Autism,326
+ST000948,Polycystic ovary syndrome,330
+ST001991,Diabetes,333
+ST000975,Tuberculosis,340
+ST000974,Tuberculosis,366
+ST002087,COVID-19,368
+ST001775,Malaria,369
+ST001322,Obesity,386
+ST001607,Obesity,400
+ST002200,Down syndrome,419
+ST001091,Cancer,423
+ST002764,Cancer,438
+ST001317,Environmental exposure,447
+ST000818,Heart disease,447
+ST000978,Kidney disease,450
+ST000414,Malaria,492
+ST001428,Fatty liver disease,514
+ST001223,Lyme disease,518
+ST001692,Environmental exposure,527
+ST001335,Environmental exposure,529
+ST000923,Inflammatory bowel disease,546
+ST001710,Fatty liver disease,627
+ST001711,Fatty liver disease,627
+ST001422,Cancer,692
+ST001420,Angina,750
+ST002767,Autism,783
+ST002484,Autism,918
+ST001142,Cancer,928
+ST002711,Autism,1088
+ST002700,Autism,1089
+ST001937,Cancer,1160
+ST001237,Cancer,1221
+ST001932,Diabetes,2117
